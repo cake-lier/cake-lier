@@ -14,11 +14,11 @@ The man who is more commonly known as "cake_lier". But you do you, GitHub, let's
 
   ### 🧑🏼 General stats
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cake-lier&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cake-lier&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
   ### 🖥️ Languages stats
   
-  [![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cake-lier&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+  [![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cake-lier&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
   ### 🏆 Trophies
   
