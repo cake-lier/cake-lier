@@ -3,16 +3,17 @@ The man who is more commonly known as "cake_lier". But you do you, GitHub, let's
 
 ## About me
 
-- 😄 Pronouns: he/him
-- 🌱 I’m currently a uni student enrolled in the "Ingegneria e Scienze Informatiche - Laurea Magistrale" course @ "Alma Mater Studiorum - Università di Bologna"
-- 📫 How to reach me: [matteo.castellucci@outlook.com](mailto:matteo.castellucci@outlook.com)
-- 🐦 Where to find me: [my twitter](https://twitter.com/cake_lier)
+- 🧔🏻‍♂️ Pronouns: he/him.
+- 📚 Languages: ~~Scala/Java~~ Italian/English.
+- 🌱 Right now: Uni student enrolled in the "Ingegneria e Scienze Informatiche - Laurea Magistrale" course @ "Alma Mater Studiorum - Università di Bologna".
+- 📫 How to reach me: [my email](mailto:matteo.castellucci@outlook.com).
+- 🐦 Where to find me: [my twitter](https://twitter.com/cake_lier).
 
 ## My stats
 
 <div align="center">
 
-  ### 🧑🏼 General stats
+  ### 👨🏻‍💻 General stats
 
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cake-lier&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
