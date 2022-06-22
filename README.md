@@ -25,4 +25,8 @@ The man who is more commonly known as "cake_lier". But you do you, GitHub, let's
   
   [![My trophies](https://github-profile-trophy.vercel.app/?username=cake-lier&theme=monokai&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
   
+  ### ⚡ My streak
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cake-lier&date_format=j%20M%5B%20Y%5D&theme=monokai)](https://git.io/streak-stats)
+  
 </div>
