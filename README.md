@@ -4,8 +4,9 @@ The man who is more commonly known as "cake_lier". But you do you, GitHub, let's
 ## About me
 
 - 🧔🏻‍♂️ Pronouns: he/him.
-- 📚 Languages: ~~Scala/Java~~ Italian/English.
-- 🌱 Right now: Uni student enrolled in the "Ingegneria e Scienze Informatiche - Laurea Magistrale" course @ "Alma Mater Studiorum - Università di Bologna".
+- 📝 Languages: ~~Scala/Java~~ Italian/English.
+- 📚 Career: Bachelor's degree in Computer Science and Engineering @ "Alma Mater Studiorum - Università di Bologna"
+- 🌱 Right now: Pursuing Master's degree in Computer Science and Engineering @ "Alma Mater Studiorum - Università di Bologna".
 - 📫 How to reach me: [my email](mailto:matteo.castellucci@outlook.com).
 - 🐦 Where to find me: [my twitter](https://twitter.com/cake_lier).
 
