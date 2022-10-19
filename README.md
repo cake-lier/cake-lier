@@ -1,5 +1,5 @@
 # cake-lier
-The man who is more commonly known as "cake_lier". But you do you, GitHub, let's not support underscores as every language does.
+The man who is more commonly known as "cake_lier". But you do you, GitHub, let's not support underscores, distinguishing ourselves from every other markup or programming language.
 
 ## About me
 
@@ -8,6 +8,16 @@ The man who is more commonly known as "cake_lier". But you do you, GitHub, let's
 - 📚 Career: Bachelor's degree in Computer Science and Engineering @ "Alma Mater Studiorum - Università di Bologna"
 - 🌱 Right now: Pursuing Master's degree in Computer Science and Engineering @ "Alma Mater Studiorum - Università di Bologna".
 - 📫 How to reach me: [my email](mailto:matteo.castellucci@outlook.com).
+
+### My signature
+
+```
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GCS/E d-(--) s:--- a-- C++ UL++(+++) P- L++ E--- W+++>$ N* o? K- w--- O? M V?
+PS+++ PE-(--) Y+ PGP+ t@ 5? X@ R(+) tv-(!) b DI(+) D G e++>+++ h! r++ y+++**
+------END GEEK CODE BLOCK------
+```
 
 ## My stats
 
