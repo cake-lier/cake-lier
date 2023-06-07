@@ -3,7 +3,6 @@ The man who is more commonly known as "cake_lier". But you do you, GitHub, let's
 
 ## About me
 
-- 🧔🏻‍♂️ Pronouns: he/him.
 - 📝 Languages: ~~Scala/Java~~ Italian/English.
 - 📚 Career: Bachelor's degree in Computer Science and Engineering @ "Alma Mater Studiorum - Università di Bologna"
 - 🌱 Right now: Pursuing Master's degree in Computer Science and Engineering @ "Alma Mater Studiorum - Università di Bologna".
