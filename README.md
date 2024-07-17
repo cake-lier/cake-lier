@@ -38,4 +38,12 @@ PS+++ PE-(--) Y+ PGP+ t@ 5? X@ R(+) tv-(!) b DI(+) D G e++>+++ h! r++ y+++**
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cake-lier&date_format=j%20M%5B%20Y%5D&theme=monokai)](https://git.io/streak-stats)
   
+  ### 🔧 Contributions
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cake-lier.github.io/cake-lier/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cake-lier.github.io/cake-lier/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cake-lier.github.io/cake-lier/github-contribution-grid-snake.svg" />
+  </picture>
+
 </div>
