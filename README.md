@@ -5,7 +5,7 @@ The man who is more commonly known as "cake_lier". But you do you, GitHub, let's
 
 - 📝 Languages: ~~Scala/Java~~ Italian/English
 - 📚 Career: Master's degree in Computer Science and Engineering @ Alma Mater Studiorum - Università di Bologna
-- 🌱 Right now: Software Developer @ TeamSystem S.p.A. (Cesena)
+- 🌱 Right now: Developing management software for the HoReCa industry @ TeamSystem S.p.A. (Cesena)
 - 📫 How to reach me: [my email](mailto:matteo.castellucci@outlook.com)
 
 ### My signature
